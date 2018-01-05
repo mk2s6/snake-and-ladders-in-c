@@ -139,5 +139,4 @@ void main(){
 			}
 		}
 	}
-	printf("Copyright registerd to SIVA: 15381A0518");
 }
